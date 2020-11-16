@@ -1222,7 +1222,6 @@
       {
         "action": "przezuj",
         "effect": "mana",
-        "dont_bind": true
       }
     ],
     "bylica_cytwarowa": [
